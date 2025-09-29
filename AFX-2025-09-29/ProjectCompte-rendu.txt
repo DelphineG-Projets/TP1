@@ -1,0 +1,90 @@
+Compte-rendu créé : 
+	2025-09-29	14:30:26
+
+Nom de projet : Project.aep
+
+Fichiers source rassemblés dans : 
+	D:\DG\AFX-2025-09-29
+
+Fichiers source rassemblés : Tout
+
+Comp. rassemblées : 
+	Blocking
+	blocking1
+	fond
+	gros arbre du debut
+	Plan de travail 1
+	fonds3
+	fond
+	Plan de travail 1
+	Mitsy-Course
+	personnage-principal-cote
+	membres
+	Tete
+	Yeux
+	Tête
+	Ombre-Course
+	perso
+	oeil-ombre
+	OEIL
+	Scène1
+	Scene1-3plans
+	Scène2
+	fonds2 (1)
+	fond
+	arbre-fond
+	Plan de travail 1
+	fonds2
+	fonds2 (1)
+	fond
+	arbre-fond
+	Plan de travail 1
+	Projet-Final
+	Scene3
+	
+Nombre de fichiers rassemblés : 40
+
+Taille des fichiers rassemblés : 102 Mo
+
+Fichiers source rassemblés : 
+	D:\DG\AFX-2025-09-27\(Metrage)\fonds Layers\fonds.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\fonds2 Calques\fonds2.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\fonds3 Layers\fonds3.psd
+	Séquence "personnage-principal-cote{0000-0006}.png" à D:\DG\AFX-2025-09-27\(Metrage)\Images\Personnages\Mitsy\Nouveau dossier avec 7 fichiers et 0 fichiers auxiliaires
+	D:\DG\AFX-2025-09-27\(Metrage)\Images\Personnages\Mitsy\personnage-principal-cote Calques\personnage-principal-cote.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\Images\Personnages\Ombre\oeil-ombre Calques\oeil-ombre.psd
+	Séquence "ombre{40000-40015}.png" à D:\DG\AFX-2025-09-27\(Metrage)\Images\Personnages\Ombre\ombre avec 16 fichiers et 0 fichiers auxiliaires
+	D:\DG\AFX-2025-09-27\(Metrage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - bass_stem_preview (1).mp3
+	D:\DG\AFX-2025-09-27\(Metrage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - bass_stem_preview.mp3
+	D:\DG\AFX-2025-09-27\(Metrage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - drums_stem_preview.mp3
+	D:\DG\AFX-2025-09-27\(Metrage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - fullmix_preview.mp3
+	D:\DG\AFX-2025-09-27\(Metrage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - instruments_stem_preview.mp3
+	D:\DG\AFX-2025-09-27\(Metrage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - melody_stem_preview.mp3
+	D:\DG\AFX-2025-09-27\(Metrage)\Photoshop\champignon-spirale.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\Photoshop\fonds2.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\Photoshop\fonds4.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\Photoshop\gros-arbre-debut.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\Photoshop\ombre.psd
+	D:\DG\AFX-2025-09-27\(Metrage)\Photoshop\personnage-principal-devant.psd
+	
+Rendu des modules externes :
+	3D  classique
+	3D avancé
+	
+Effets utilisés : 5
+
+Effet : Courbes
+	
+Effet : Marionnette
+	
+Effet : Niveaux
+	
+Effet : Noir et blanc
+	
+Effet : Teinte/Saturation
+	
+
+Calque : Calque de texte
+	Dépendances externes : 
+		Famille de polices : “BrushUp”, Style de police : “Regular”
+
