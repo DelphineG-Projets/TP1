@@ -1,0 +1,171 @@
+Report created: 
+	2025-10-07	1:52:14 AM
+
+Project name: Untitled Project copy.aep
+
+Source files collected to: 
+	C:\Users\Client\Downloads\TP1_alpha0.1
+
+Source files collected: All
+
+Collected comps:  
+	Mitsy-Course
+	Ombre-Course
+	Projet-Final
+	Scene1-3plans
+	Scene3
+	Scène1
+	fond
+	gros arbre du debut
+	Scène2
+	Plan de travail 1
+	fond
+	gros arbre du debut
+	IntroForet
+	personnage-principal-cote
+	membres
+	Tete
+	Tête
+	Yeux
+	oeil-ombre
+	OEIL
+	champignon blanc derrière
+	champignon blanc devant
+	champigon gris
+	scene_4
+	fonds3
+	fond
+	Plan de travail 1
+	Mitsy-Course
+	personnage-principal-cote
+	membres
+	Tete
+	Yeux
+	Tête
+	Ombre-Course
+	oeil-ombre
+	OEIL
+	Scène1
+	Scene1-3plans
+	Scène2
+	fonds2 (1)
+	fond
+	arbre-fond
+	Plan de travail 1
+	fonds2
+	fonds2 (1)
+	fond
+	arbre-fond
+	Plan de travail 1
+	Projet-Final
+	Scene3
+	Mitsy-SeLeve
+	scène1-vent
+	Pre-comp 1
+	
+Number of collected files:  97
+
+Size of collected files:  365 MB
+
+Collected source files: 
+	C:\Users\Client\Downloads\ES_Ambient Horror - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Bass, Boom, Sub, Very Low, Long Revererbant Tail - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Cinematic Hit, Impact, Metallic Rattle, Riser - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Cinematic Hit, Soft Impact 02 - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Horror, Ghostly Whispers - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Impact, Dark, Cinematic, Low - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Space Atmosphere, Dark, Creepy, Resonant - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Swell, Reverse, Horror, Hit - Epidemic Sound.wav
+	C:\Users\Client\Downloads\ES_Weird Whoosh, Scary - Epidemic Sound.wav
+	C:\Users\Client\Downloads\introForet\(Footage)\fonds Layers\fonds.psd
+	C:\Users\Client\Downloads\introForet\(Footage)\fonds2 Calques\fonds2.psd
+	Sequence "personnage-principal-cote{0000-0006}.png" at C:\Users\Client\Downloads\introForet\(Footage)\Images\Personnages\Mitsy\Nouveau dossier with 7 files and 0 auxiliary files
+	C:\Users\Client\Downloads\introForet\(Footage)\Images\Personnages\Mitsy\personnage-principal-cote Calques\personnage-principal-cote.psd
+	C:\Users\Client\Downloads\introForet\(Footage)\Images\Personnages\Ombre\oeil-ombre Calques\oeil-ombre.psd
+	Sequence "ombre{40000-40015}.png" at C:\Users\Client\Downloads\introForet\(Footage)\Images\Personnages\Ombre\ombre with 16 files and 0 auxiliary files
+	C:\Users\Client\Downloads\introForet\(Footage)\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - fullmix_preview.mp3
+	C:\Users\Client\Downloads\scene4\(Footage)\decors_base Calques\decors_base.psd
+	C:\Users\Client\Downloads\scene4\(Footage)\fonds4.psd
+	C:\Users\Client\Downloads\scene4\(Footage)\ombre.psd
+	C:\Users\Client\Downloads\scene4\(Footage)\personnage-principal-cote.psd
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Fonds\fonds Layers\fonds.psd
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Fonds\fonds2 Calques\fonds2.psd
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Fonds\fonds3 Layers\fonds3.psd
+	Sequence "personnage-principal-cote{0000-0023}.png" at C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Personnages\Mitsy\Downloads with 24 files and 0 auxiliary files
+	Sequence "personnage-principal-cote{0000-0006}.png" at C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Personnages\Mitsy\Nouveau dossier with 7 files and 0 auxiliary files
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Personnages\Mitsy\personnage-principal-cote Calques\personnage-principal-cote.psd
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Personnages\Mitsy\personnage-principal-cote0000.png
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Personnages\Ombre\oeil-ombre Calques\oeil-ombre.psd
+	Sequence "ombre{40000-40015}.png" at C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Images\Personnages\Ombre\ombre with 16 files and 0 auxiliary files
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Musique\ES_The Crime Scene - Ruiqi Zhao.wav
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Photoshop\ombre.psd
+	C:\Users\Client\Downloads\TP1_10-06-beta\TP1_10-06-beta\(Footage)\Photoshop\soleil-mauve.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  29
+
+Effect:  Black & White
+	
+Effect:  CC Light Wipe
+	
+Effect:  CC Particle World
+	
+Effect:  CC Radial Fast Blur
+	
+Effect:  Change to Color
+	
+Effect:  Circle
+	
+Effect:  Curves
+	
+Effect:  Direction
+	
+Effect:  Directional Blur
+	
+Effect:  Drop Shadow
+	
+Effect:  Fractal Noise
+	
+Effect:  Gaussian Blur
+	
+Effect:  Glow
+	
+Effect:  Hue/Saturation
+	
+Effect:  Invert
+	
+Effect:  Levels
+	
+Effect:  Luma Key
+	
+Effect:  Noise
+	
+Effect:  Personality
+	
+Effect:  Point Control
+	
+Effect:  Posterize Time
+	
+Effect:  Puppet
+	
+Effect:  Roughen Edges
+	
+Effect:  Slider Control
+	
+Effect:  Threshold
+	
+Effect:  Transform
+	
+Effect:  Tritone
+	
+Effect:  Turbulent Displace
+	
+Effect:  Twirl
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Brush Up”, Font style: “Regular”
+
