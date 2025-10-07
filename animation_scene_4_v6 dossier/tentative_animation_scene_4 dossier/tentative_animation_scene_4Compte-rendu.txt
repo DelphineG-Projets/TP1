@@ -1,0 +1,26 @@
+Compte-rendu créé : 
+	2025-09-29	20:52:27
+
+Nom de projet : tentative_animation_scene_4.aep
+
+Fichiers source rassemblés dans : 
+	Z:\Bureau\tentative_animation_scene_4 dossier
+
+Fichiers source rassemblés : Tout
+
+Comp. rassemblées : 
+	Composition 1
+	
+Nombre de fichiers rassemblés : 4
+
+Taille des fichiers rassemblés : 34,4 Mo
+
+Fichiers source rassemblés : 
+	C:\Users\morp32\Downloads\fonds4.psd
+	C:\Users\morp32\Downloads\ombre.psd
+	C:\Users\morp32\Downloads\personnage-principal-cote.psd
+	Z:\Bureau\decors_base.psd
+	
+Rendu des modules externes :
+	3D  classique
+	
