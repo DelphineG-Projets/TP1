@@ -1,0 +1,174 @@
+Compte-rendu créé : 
+	2025-10-07	20:02:05
+
+Nom de projet : tp1-animation.aep
+
+Fichiers source rassemblés dans : 
+	C:\Users\gred12\Downloads\tp1-anim
+
+Fichiers source rassemblés : Tout
+
+Comp. rassemblées : 
+	Mitsy-Course
+	Ombre-Course
+	Projet-Final
+	Scene1-3plans
+	Scene3
+	Scène1
+	fond
+	gros arbre du debut
+	Scène2
+	Plan de travail 1
+	fond
+	gros arbre du debut
+	IntroForet
+	personnage-principal-cote
+	membres
+	Tete
+	Tête
+	Yeux
+	oeil-ombre
+	OEIL
+	champignon blanc derrière
+	champignon blanc devant
+	champigon gris
+	scene_4
+	fonds3
+	fond
+	Plan de travail 1
+	Mitsy-Course
+	personnage-principal-cote
+	membres
+	Tete
+	Yeux
+	Tête
+	Ombre-Course
+	oeil-ombre
+	OEIL
+	Scène1
+	Scene1-3plans
+	Scène2
+	fonds2 (1)
+	fond
+	arbre-fond
+	Plan de travail 1
+	fonds2
+	fonds2 (1)
+	fond
+	arbre-fond
+	Plan de travail 1
+	Projet-Final
+	Scene3
+	Mitsy-SeLeve
+	scène1-vent
+	Pre-comp 1
+	mushrooms
+	
+Nombre de fichiers rassemblés : 99
+
+Taille des fichiers rassemblés : 366 Mo
+
+Fichiers source rassemblés : 
+	Z:\Bureau\champignon-mauve.png
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Fonds\fonds Layers\fonds.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Fonds\fonds2 Calques\fonds2.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Fonds\fonds3 Layers\fonds3.psd
+	Séquence "personnage-principal-cote{0000-0023}.png" à Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Personnages\Mitsy\Downloads avec 24 fichiers et 0 fichiers auxiliaires
+	Séquence "personnage-principal-cote{0000-0006}.png" à Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Personnages\Mitsy\Nouveau dossier avec 7 fichiers et 0 fichiers auxiliaires
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Personnages\Mitsy\personnage-principal-cote Calques\personnage-principal-cote.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Personnages\Mitsy\personnage-principal-cote0000.png
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Personnages\Ombre\oeil-ombre Calques\oeil-ombre.psd
+	Séquence "ombre{40000-40015}.png" à Z:\Bureau\TP1_alpha0.1\(Footage)\Images\Personnages\Ombre\ombre avec 16 fichiers et 0 fichiers auxiliaires
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Musique\ES_The Crime Scene - Ruiqi Zhao.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Photoshop\ombre.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Photoshop\soleil-mauve.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\fonds Layers\fonds.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\fonds2 Calques\fonds2.psd
+	Séquence "personnage-principal-cote{0000-0006}.png" à Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Images\Personnages\Mitsy\Nouveau dossier avec 7 fichiers et 0 fichiers auxiliaires
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Images\Personnages\Mitsy\personnage-principal-cote Calques\personnage-principal-cote.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Images\Personnages\Ombre\oeil-ombre Calques\oeil-ombre.psd
+	Séquence "ombre{40000-40015}.png" à Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Images\Personnages\Ombre\ombre avec 16 fichiers et 0 fichiers auxiliaires
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Ambient Horror - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Bass, Boom, Sub, Very Low, Long Revererbant Tail - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Cinematic Hit, Impact, Metallic Rattle, Riser - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Cinematic Hit, Soft Impact 02 - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Horror, Ghostly Whispers - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Impact, Dark, Cinematic, Low - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Space Atmosphere, Dark, Creepy, Resonant - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Swell, Reverse, Horror, Hit - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_The Crime Scene - Ruiqi Zhao (Version 327b664a) - fullmix_preview.mp3
+	Z:\Bureau\TP1_alpha0.1\(Footage)\Project.aep\Musique\ES_Weird Whoosh, Scary - Epidemic Sound.wav
+	Z:\Bureau\TP1_alpha0.1\(Footage)\tentative_animation_scene_4.aep\decors_base Calques\decors_base.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\tentative_animation_scene_4.aep\fonds4.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\tentative_animation_scene_4.aep\ombre.psd
+	Z:\Bureau\TP1_alpha0.1\(Footage)\tentative_animation_scene_4.aep\personnage-principal-cote.psd
+	Z:\Bureau\UQAT_logotype_CMYK (1).eps
+	
+Rendu des modules externes :
+	3D  classique
+	
+Effets utilisés : 29
+
+Effet : Bruit
+	
+Effet : Bruit fractal
+	
+Effet : CC Light Wipe
+	
+Effet : CC Particle World
+	
+Effet : CC Radial Fast Blur
+	
+Effet : Cercle
+	
+Effet : Contours bruts
+	
+Effet : Courbes
+	
+Effet : Direction
+	
+Effet : Flou directionnel
+	
+Effet : Flou gaussien
+	
+Effet : Incrustation Luminance
+	
+Effet : Inverser
+	
+Effet : Lueur diffuse
+	
+Effet : Marionnette
+	
+Effet : Métamorphose de couleurs
+	
+Effet : Niveaux
+	
+Effet : Noir et blanc
+	
+Effet : Ombre portée
+	
+Effet : Paramètre glissière
+	
+Effet : Paramètre point d'effet
+	
+Effet : Personality
+	
+Effet : Postérisation temporelle
+	
+Effet : Seuil
+	
+Effet : Teinte/Saturation
+	
+Effet : Tourbillon
+	
+Effet : Transformation
+	
+Effet : Trichrome
+	
+Effet : Turbulences
+	
+
+Calque : Calque de texte
+	Dépendances externes : 
+		Famille de polices : “BrushUp”, Style de police : “Regular”
+
